@@ -1,4 +1,4 @@
-Def Begin():
+def Begin():
   print("Hello World")
   answer = input("How is your day going? Enter Good or Bad!: ")
   if answer == "Good":
