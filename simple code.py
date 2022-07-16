@@ -1,5 +1,5 @@
 Def Begin():
-  print("Hello World)
+  print("Hello World")
   answer = input("How is your day going? Enter Good or Bad!: ")
   if answer == "Good":
       print("I hope it continues!")
